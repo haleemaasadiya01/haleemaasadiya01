@@ -78,30 +78,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haleemaasadiya01&show_icons=true&theme=tokyonight)
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haleemaasadiya01&layout=compact&theme=tokyonight)
-
-
-
----
 
 ## 📫 Let's Connect
 
-[
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/haleemaasadiya01](https://www.linkedin.com/in/haleemasadiya01?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/haleemaasadiya01)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:haleemaasadiya01@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleemaasadiya01@gmail.com)
