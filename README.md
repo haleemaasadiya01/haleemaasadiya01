@@ -61,7 +61,7 @@
 
 ### 📊 HR Analytics — Employee Attrition Dashboard
 > Power BI | Python | SQL
-- Analyzed IBM HR dataset to identify key attrition drivers
+- Analyzed HR dataset to identify key attrition drivers
 - Built interactive Power BI dashboard with KPI cards
 - 🔗 [View on GitHub](#) | [View on LinkedIn](#)
 
