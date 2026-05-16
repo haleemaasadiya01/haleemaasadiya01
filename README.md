@@ -1,6 +1,7 @@
 # Hi there, I'm Haleema Sadiya! 👋
 
 🎓 3rd Year B.Tech CSE Student @ Shadan Women's College of Engineering & Technology, Hyderabad
+
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Tableau
 🏆 Runner-Up @ Technosphere 2025
 
@@ -81,6 +82,6 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/haleemaasadiya01](https://www.linkedin.com/in/haleemasadiya01?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haleemasadiya01/)
 
 [![Gmail](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleemaasadiya01@gmail.com)
