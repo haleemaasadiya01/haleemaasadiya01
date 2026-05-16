@@ -63,7 +63,7 @@
 > Power BI | Python | SQL
 - Analyzed HR dataset to identify key attrition drivers
 - Built interactive Power BI dashboard with KPI cards
-- 🔗 [View on GitHub](#) | [View on LinkedIn](#)
+- 🔗 [View on GitHub](https://github.com/haleemaasadiya01/HR-Analytics-Dashboard/) | [View on LINKEDIN](https://www.linkedin.com/posts/haleemasadiya01_powerbi-dataanalytics-hranalytics-activity-7461378314557890560-sX6t?utm_source=share&utm_medium=member_android&rcm=ACoAAGQ56qMB5zrubwtTGYMeZRJhNGmvSHMgXEs)
 
 ### 🌐 Campus Connect Hub
 > HTML | CSS | JavaScript | Firebase | DeepSeek AI
