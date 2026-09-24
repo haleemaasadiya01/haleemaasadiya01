@@ -14,7 +14,7 @@
 - 🎓 3rd-year B.Tech CSE student, transitioning into **Data Science**
 - 🔍 Skilled in **Python, SQL, Power BI, Tableau, Excel, Machine Leaning**
 - 🧠 Currently sharpening ML & analytics skills through hands-on projects
-- 💼 Completed internships at **YAXE Technologies** and **Edunet** (Data Analytics)
+- 💼 Completed internships at **IBM SKILLSBUILD** and **Edunet** (Data Analytics)
 - 📫 Open to internships, collaborations, and data-driven conversations
 
 ### 🛠️ Tech Stack
@@ -56,7 +56,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haleemasadiya01/"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:haleemaasadiya01@gmail.com"><img src="https://img.shields.io/badge/Gmail-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
