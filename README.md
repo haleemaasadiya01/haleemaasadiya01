@@ -1,87 +1,32 @@
-# Hi there, I'm Haleema Sadiya! 👋
+<p align="center">
+  <a href="https://github.com/haleemaasadiya01">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Haleema" alt="Hello! I&#39;m Haleema" />
+  </a>
+</p>
 
-🎓 3rd Year B.Tech CSE Student @ Shadan Women's College of Engineering & Technology, Hyderabad
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Turning%20raw%20data%20into%20insights%20%7C%20CSE%20%40%20JNTUH%20%7C%20Data%20Science%20enthusiast" alt="Typing headlines" />
+</p>
 
-📊 Aspiring Data Analyst | Python • SQL • Power BI • Tableau
-🏆 Runner-Up @ Technosphere 2025
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=haleemaasadiya01&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=haleemaasadiya01&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-## 🙋‍♀️ About Me
+### 📈 Contribution Graph
 
-- 🔍 Passionate about turning raw data into actionable business insights
-- 📈 Currently building my data analytics portfolio with real-world datasets
-- 🌱 Learning consulting-style analysis, KPI reporting & dashboard design
-- 💡 CGPA: 9.7/10
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=haleemaasadiya01&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
----
+### 💭 Dev Quote
 
-## 🛠️ Tech Stack
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
+<p align="center"><i>⭐️ From <a href="https://github.com/haleemaasadiya01">haleemaasadiya01</a></i></p>
 
-## 📂 Featured Projects
-
-### 📊 HR Analytics — Employee Attrition Dashboard
-> Power BI | Python | SQL
-- Analyzed HR dataset to identify key attrition drivers
-- Built interactive Power BI dashboard with KPI cards
-- 🔗 [View on GitHub](https://github.com/haleemaasadiya01/HR-Analytics-Dashboard/) | [View on LINKEDIN](https://www.linkedin.com/posts/haleemasadiya01_powerbi-dataanalytics-hranalytics-activity-7461378314557890560-sX6t?utm_source=share&utm_medium=member_android&rcm=ACoAAGQ56qMB5zrubwtTGYMeZRJhNGmvSHMgXEs)
-
-### 🌐 Campus Connect Hub
-> HTML | CSS | JavaScript | Firebase | DeepSeek AI
-- Student platform for events, updates & study groups
-- AI chatbot integration for student assistance
-- 🏆 Runner-Up @ Technosphere 2025
-
-
-### 🤖 Chatbot Mavia
-> Python | HTML | CSS | JavaScript
-- Rule-based chatbot with clean frontend UI
-
----
-
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haleemasadiya01/)
-
-[![Gmail](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haleemaasadiya01@gmail.com)
