@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Turning%20raw%20data%20into%20insights%20%7C%20CSE%20%40%20JNTUH;Aspiring%20Data%20Scientist%20%7C%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI;Always%20learning%2C%20always%20building" alt="Typing headlines" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haleemaasadiya01&color=0891b2&style=flat&label=Profile+Views" alt="profile views" />
-</p>
 
 ### 👩‍💻 About Me
 
